@@ -4,6 +4,7 @@
 ## Tecnologias
 -Mit App Inventor
 -.apk
+-.aia
 
 # Professor que testou
 -Professor Icaro de portugues,A professora Marcia de historia não tinha aula na escola no dia que eu fui mostrar então decide mostrar para ele
